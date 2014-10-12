@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Site Title
+title: Louisville Old Time Squares Association
 locale: en_US
-description: Describe your website here.
-logo: site-logo.png
+description: Promoting traditional community square dance and old time music in and around Louisville, Kentucky
+logo:
 search: true
 url: 
 
@@ -12,7 +12,7 @@ url:
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: null
 sass:
   sass_dir: _sass
   style: compressed
@@ -32,12 +32,12 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Louisville Old Time Squares Association
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: louisvillesquares@gmail.com
   disqus-shortname:
   twitter:
-  facebook:
+  facebook: groups/LOTSA/
   github:
   stackexchange:
   linkedin:
