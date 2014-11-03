@@ -1,2 +1,7 @@
-- src: # 'calendarID@group.calendar.google.com'
-  color: # '#182C57'
+# LOTSA main calendar
+- src: 'klu5te86sj7uf6asma4dbmoqmg@group.calendar.google.com'
+  color: '#711616'
+
+# LOTSA extra events calendar
+- src: 'l0il5j611l99nl5ak96eurkps8@group.calendar.google.com'
+  color: '#A32929'
