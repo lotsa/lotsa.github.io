@@ -29,6 +29,9 @@ kramdown:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "so-simple-theme-LICENSE", "README.md", "so-simple-theme-README.md", "vendor"]
 
+collections:
+  - links
+
 
 # Site owner
 owner:
