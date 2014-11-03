@@ -1,5 +1,8 @@
 # Site navigation links
 
+- title: Main
+  url: /
+
 - title: About
   url: /about/
 
