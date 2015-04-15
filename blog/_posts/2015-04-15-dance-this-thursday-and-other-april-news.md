@@ -5,6 +5,7 @@ categories: [blog]
 excerpt: "The Monks, CycLOUvia, Dare to be Square"
 tags: [news]
 date: 2015-04-14T7:30:00-04:00
+modified: 2015-04-15T10:24:00-04:00
 share: true
 ---
 
@@ -47,7 +48,7 @@ for more details, or if you'd like to volunteer to help set up or work the door 
 *   Sat, Apr 18: LCD Third Saturday contra dance with Convolution, Deborah Denenfeld calling [Highlands Community Campus] ([Mu](http://www.meetup.com/louisvillesquaresandcontras/events/220971871/))
 *   Sat, Apr 18: Old School Farm Dance with the Barn Cats, Old Man Kelly calling, Nashville, TN ([Fb](https://www.facebook.com/events/393896004130054/))
 *   Sun, Apr 19: Possible dancin' in the street at CycLOUvia on The Avenue (more information to come)
-*   Sun, Apr 19: [Louisville Sacred Harp Singing](https://www.facebook.com/groups/morethemerriershapes/), 2:30pm, Vine Street Baptist Church
+*   Sat, Apr 25–Sun, Apr 26: [Louisville Sacred Harp Singing](https://www.facebook.com/groups/morethemerriershapes/) Bob Meek Memorial Sing, [Harrods Creek Baptist Church](https://www.facebook.com/HarrodsCreekBaptistChurch)
 *   Fri, May 29–Sun, May 31: **Dare to be Square Helvetia, WV** ([www](http://mountaindancetrail.org/364-2/), [Fb](https://www.facebook.com/events/812567478791147/))  
     We'll have several folks headed to this. It's a blast. Let's organize some carpools!
 
