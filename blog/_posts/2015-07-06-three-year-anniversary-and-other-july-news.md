@@ -9,6 +9,15 @@ modified:
 share: true
 ---
 
+Friendly faces all around this month, folks! We'll welcome back T-Claw for our three year anniversary dance.
+LOTSA exists because y'all want to dance.
+Our deepest thanks to everyone who comes out on the third Thursday of the month to hang out with good people and good music.
+You keep coming to these shindigs and we'll keep puttin' 'em on—this month should be especially fun.
+
+One thing we decided at our last planning meeting was to have more regularly scheduled planning meetings.
+They'll usually be the Tuesday before the first Thursday of every month. Keep an eye on our calendar, which you can find—and subscribe to—on our front page, [http://www.louisvillesquares.org/][WWW].
+
+See y'all on the dance floor!
 
 * Tue, Jul 14: [Northside Tavern Squares, Alexander Calls! 8pm, Cincinnati, OH](#cincinnati) ([FB][Cincinnati FB])
 * Thu, Jul 16: **[3 Year Anniversary of the Hoedown in Germantown featuring the Ohio River Rounders, T-Claw Calling, 7:30pm, AMVETS Post 9](#hoedown)** ([FB][Hoedown FB], [MU][Hoedown MU])
