@@ -2,22 +2,27 @@
 layout: post
 title: "August News"
 categories: [blog]
-excerpt: ""
+excerpt: "Olive the Other Reindeer, Peter Rogers, Dare to be Square, Fleur de Lis Fling"
 tags: [news]
 date: 2015-08-06T13:00:00-04:00
 modified: 
 share: true
 ---
 
-Friendly faces all around this month, folks! We'll welcome back T-Claw for our three year anniversary dance.
-LOTSA exists because y'all want to dance.
-Our deepest thanks to everyone who comes out on the third Thursday of the month to hang out with good people and good music.
-You keep coming to these shindigs and we'll keep puttin' 'em on—this month should be especially fun.
+Thanks P&TY
 
-One thing we decided at our last planning meeting was to have more regularly scheduled planning meetings.
-They'll usually be the Tuesday before the first Thursday of every month. Keep an eye on our calendar, which you can find—and subscribe to—on our front page, [http://www.louisvillesquares.org/][WWW].
-
-See y'all on the dance floor!
+Contra house party
+Flea Off honky tonk
+Folk School open house
+Flea Off jam
+Cinci squares
+Sat contra
+Irish sets
+Aug hoedown
+Vernon squares
+DTBS TN
+Nov hoedown
+Fleur de Lis Fling
 
 * Tue, Jul 14: [Northside Tavern Squares, Alexander Calls! 8pm, Cincinnati, OH](#cincinnati) ([FB][Cincinnati FB])
 * Thu, Jul 16: **[3 Year Anniversary of the Hoedown in Germantown featuring the Ohio River Rounders, T-Claw Calling, 7:30pm, AMVETS Post 9](#hoedown)** ([FB][Hoedown FB], [MU][Hoedown MU])
