@@ -4,17 +4,13 @@ title: "August News"
 categories: [blog]
 excerpt: "Olive the Other Reindeer, Peter Rogers, Dare to be Square, Fleur de Lis Fling"
 tags: [news]
-date: 2015-08-06T13:00:00-04:00
+date: 2015-08-10T13:00:00-04:00
 modified: 
 share: true
 ---
 
 Thanks P&TY
 
-Contra house party
-Flea Off honky tonk
-Folk School open house
-Flea Off jam
 Cinci squares
 Sat contra
 Irish sets
