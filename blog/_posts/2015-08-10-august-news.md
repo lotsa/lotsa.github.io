@@ -27,7 +27,6 @@ fall. Read on for details.
 Here's to three years of hoedowns, and many more years to come. See 
 y'all on the dance floor!
 
-Cinci squares
 Sat contra
 Irish sets
 Aug hoedown
@@ -36,13 +35,13 @@ DTBS TN
 Nov hoedown
 Fleur de Lis Fling
 
-* Tue, Jul 14: [Northside Tavern Squares, Alexander Calls! 8pm, Cincinnati, OH](#cincinnati) ([FB][Cincinnati FB])
+* Tue, Aug 11: [Northside Square Dance, Peter Rogers calling, 8pm, Cincinnati, OH](#cincinnati) ([FB][Cincinnati FB])
 * Thu, Jul 16: **[3 Year Anniversary of the Hoedown in Germantown featuring the Ohio River Rounders, T-Claw Calling, 7:30pm, AMVETS Post 9](#hoedown)** ([FB][Hoedown FB], [MU][Hoedown MU])
 * Sat, Jul 18: [Louisville Country Dancers Third Saturday contra dance with Footbridge, Judy Goldsmith calling, 7:30pm, Highlands Community Campus](#contra-saturday) ([FB][Contra Saturday FB], [MU][Contra Saturday MU])
 * Sat, Jul 18: [Summertime Old School Farm Dance with the Ohio River Rounders, Alexander Calls! 7:30pm CDT, Nashville, TN](#nashville) ([FB][Nashville FB])
 * Thu, Oct 1–Sun, Oct 4: [Dare to be Square Tennessee - Nashville Edition](#dtbs-nashville) ([FB][DTBS Nashville FB])
 
-[Cincinnati FB]: https://www.facebook.com/events/1445531102414763/
+[Cincinnati FB]: https://www.facebook.com/events/738636082929211/
 [Hoedown FB]: https://www.facebook.com/events/876628295746537/
 [Hoedown MU]: http://www.meetup.com/louisvillesquaresandcontras/events/223428141/
 [Contra Saturday FB]: https://www.facebook.com/events/1462357584065001/
@@ -59,12 +58,19 @@ Contra dancing with the [Louisville Country Dancers][] every Monday evening at [
 <p style="text-align:center">❧</p>
 
 <hgroup id="cincinnati">
-<h3>Tuesday, July 14th</h3>
-<h2>Northside Tavern Squares, Alexander Calls!</h2>
+<h3>Tuesday, August 11th</h3>
+<h2>[Northside Square Dance][], Peter Rogers calling</h2>
 <h3>Cincinnati, OH</h3>
 </hgroup>
 
-LOTSA's own Alex Udis—Alexander Calls!—is headed to Cincinnati to call this month. His square dance calling is inspired by T-Claw (Tee Claw), so know we are in for a treat! BE SQUARE with us. Bring a friend or come alone. Put $5 in the donation box and bring some bucks for the fine crafted beers that Melanie Quallen offers at the back bar.
+[Northside Squares][Northside Square Dance] love Peter Rogers! It's his 
+3rd visit from Frankfort KY to call really fun old-time circles and 
+squares. He's smooth, he's confident, and he makes it soooooooo easy for 
+beginners and veteran dancers alike. Bring your whoops and hollers. If 
+it's the 2nd Tuesday, it's time for the Northside Tavern back room 
+square dance, donation $5 per dancer. Don't forget to buy beers from 
+back room barkeep Amanda Daulton; that keeps us in our wonderful dance 
+space. Music by the Northside Volunteers.
 
 See [the Facebook event][Cincinnati FB] for more details.
 
@@ -229,3 +235,4 @@ Check out our Meetup group: [http://www.meetup.com/louisvillesquaresandcontras/]
 [Louisville Country Dancers]: http://louisvillecountrydancers.org/
 [Highlands Community Campus]: https://www.facebook.com/pages/Highlands-Community-Campus/1400989626838399
 [Louisville Sacred Harp Singing]: https://www.facebook.com/groups/morethemerriershapes/
+[Northside Square Dance]: https://www.facebook.com/groups/NorthsideSquareDance/
