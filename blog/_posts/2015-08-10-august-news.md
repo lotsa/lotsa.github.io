@@ -9,7 +9,23 @@ modified:
 share: true
 ---
 
-Thanks P&TY
+Hello, all,
+
+First, let us voice an overwhelming "THANK YOU!" to everybody who came 
+out to LOTSA's three year anniversary dance last month. We make these 
+dances happen because you all keep coming to 'em, and it's ya'll who 
+make them *happening*! LOTSA's celebration certainly was happening.
+
+Special thanks to
+[Please & Thank You](http://www.pleaseandthankyoulouisville.com/)
+and Jane Mattingly for helping us with that awesome birthday cake, and 
+to T-Claw for not only calling but also baking the squared pie.
+
+Plenty of dancing this month, and some exciting announcements for the 
+fall. Read on for details.
+
+Here's to three years of hoedowns, and many more years to come. See 
+y'all on the dance floor!
 
 Cinci squares
 Sat contra
