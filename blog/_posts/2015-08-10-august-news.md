@@ -27,7 +27,6 @@ fall. Read on for details.
 Here's to three years of hoedowns, and many more years to come. See 
 y'all on the dance floor!
 
-Sat contra
 Irish sets
 Aug hoedown
 Vernon squares
@@ -36,16 +35,16 @@ Nov hoedown
 Fleur de Lis Fling
 
 * Tue, Aug 11: [Northside Square Dance, Peter Rogers calling, 8pm, Cincinnati, OH](#cincinnati) ([FB][Cincinnati FB])
+* Sat, Aug 15: [Louisville Country Dancers Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling, 7:30pm, Highlands Community Campus](#contra-saturday) ([FB][Contra Saturday FB], [MU][Contra Saturday MU])
 * Thu, Jul 16: **[3 Year Anniversary of the Hoedown in Germantown featuring the Ohio River Rounders, T-Claw Calling, 7:30pm, AMVETS Post 9](#hoedown)** ([FB][Hoedown FB], [MU][Hoedown MU])
-* Sat, Jul 18: [Louisville Country Dancers Third Saturday contra dance with Footbridge, Judy Goldsmith calling, 7:30pm, Highlands Community Campus](#contra-saturday) ([FB][Contra Saturday FB], [MU][Contra Saturday MU])
 * Sat, Jul 18: [Summertime Old School Farm Dance with the Ohio River Rounders, Alexander Calls! 7:30pm CDT, Nashville, TN](#nashville) ([FB][Nashville FB])
 * Thu, Oct 1–Sun, Oct 4: [Dare to be Square Tennessee - Nashville Edition](#dtbs-nashville) ([FB][DTBS Nashville FB])
 
 [Cincinnati FB]: https://www.facebook.com/events/738636082929211/
+[Contra Saturday FB]: https://www.facebook.com/events/1615130942080686/
+[Contra Saturday MU]: http://www.meetup.com/louisvillesquaresandcontras/events/221288530/
 [Hoedown FB]: https://www.facebook.com/events/876628295746537/
 [Hoedown MU]: http://www.meetup.com/louisvillesquaresandcontras/events/223428141/
-[Contra Saturday FB]: https://www.facebook.com/events/1462357584065001/
-[Contra Saturday MU]: http://www.meetup.com/louisvillesquaresandcontras/events/220971985/
 [Nashville FB]: https://www.facebook.com/events/392118494312677/
 [DTBS Nashville FB]: https://www.facebook.com/events/1603874016546845/
 
@@ -73,6 +72,32 @@ back room barkeep Amanda Daulton; that keeps us in our wonderful dance
 space. Music by the Northside Volunteers.
 
 See [the Facebook event][Cincinnati FB] for more details.
+
+<p style="text-align:center">❧</p>
+
+<hgroup id="contra-saturday">
+<h3>Saturday, August 15th</h3>
+<h2>[Louisville Country Dancers][] Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling</h2>
+<h3>[Highlands Community Campus][]</h3>
+</hgroup>
+
+This month, [Louisville Country Dancers][]' third Saturday will be played by the Emily Ann 
+Thompson Band from Indianapolis and called by Barbara Ramlow from 
+Lexington.
+
+Prices will be $5 for those under 30 yrs and $8 for those 30 yrs or 
+older; first timers will, as always, be free. The beginners lesson will 
+be held at 7:30 PM with the full dance starting at 8:00 PM
+
+If you have not danced with LCD in a while **please note the new 
+location**.
+
+[Highlands Community Campus][]  
+1228 E Breckinridge St, Louisville, KY 40204  
+
+See [the Louisville Country Dancers website][Louisville Country Dancers],
+[the Facebook event][Contra Saturday FB], 
+or [the Meetup event][Contra Saturday MU] for more details.
 
 <p style="text-align:center">❧</p>
 
@@ -126,27 +151,6 @@ No cover if you're just going to jam, but please enter through Danny Mac's main 
 
 See [the Facebook event][Hoedown FB] or [the Meetup event][Hoedown MU] for more details,
 or if you'd like to volunteer to help set up, work the door, or clean up (and get into the dance for free!)
-
-<p style="text-align:center">❧</p>
-
-<hgroup id="contra-saturday">
-<h3>Saturday, July 18th</h3>
-<h2>Louisville Country Dancers Third Saturday contra dance with Footbridge, Judy Goldsmith calling</h2>
-</hgroup>
-
-For LCD's Third Saturday dance this month they'll be having Judy Goldsmith and Footbridge up from Lexington, KY!
-
-There will be a beginners' lesson at 7:30 PM with the dance proper beginning at 8:00 PM.
-
-As usual, prices will be $5 for under thirties and $8 for those thirty and over. First timers, regardless of experience, get in free.
-
-If you have not danced with them in a while **please note the new location**.
-
-Highlands Community Campus  
-1228 E Breckinridge St, Louisville, KY 40204  
-
-See [the Louisville Country Dancers website][Louisville Country Dancers]
-or [the Facebook event][Contra Saturday FB] for more details.
 
 <p style="text-align:center">❧</p>
 
