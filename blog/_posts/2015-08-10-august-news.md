@@ -27,7 +27,6 @@ fall. Read on for details.
 Here's to three years of hoedowns, and many more years to come. See 
 y'all on the dance floor!
 
-Irish sets
 Aug hoedown
 Vernon squares
 DTBS TN
@@ -36,6 +35,7 @@ Fleur de Lis Fling
 
 * Tue, Aug 11: [Northside Square Dance, Peter Rogers calling, 8pm, Cincinnati, OH](#cincinnati) ([FB][Cincinnati FB])
 * Sat, Aug 15: [Louisville Country Dancers Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling, 7:30pm, Highlands Community Campus](#contra-saturday) ([FB][Contra Saturday FB], [MU][Contra Saturday MU])
+* Sun, Aug 16: [Irish set dancing, 5pm, Molly Malone's](#irish)
 * Thu, Jul 16: **[3 Year Anniversary of the Hoedown in Germantown featuring the Ohio River Rounders, T-Claw Calling, 7:30pm, AMVETS Post 9](#hoedown)** ([FB][Hoedown FB], [MU][Hoedown MU])
 * Sat, Jul 18: [Summertime Old School Farm Dance with the Ohio River Rounders, Alexander Calls! 7:30pm CDT, Nashville, TN](#nashville) ([FB][Nashville FB])
 * Thu, Oct 1–Sun, Oct 4: [Dare to be Square Tennessee - Nashville Edition](#dtbs-nashville) ([FB][DTBS Nashville FB])
@@ -98,6 +98,29 @@ location**.
 See [the Louisville Country Dancers website][Louisville Country Dancers],
 [the Facebook event][Contra Saturday FB], 
 or [the Meetup event][Contra Saturday MU] for more details.
+
+<p style="text-align:center">❧</p>
+
+<hgroup id="irish">
+<h3>Sunday, August 16th</h3>
+<h2>Irish set dancing</h2>
+<h3>Molly Malone's on Baxter Ave</h3>
+</hgroup>
+
+[Deborah Denenfeld](http://www.deborahdenenfeld.com/) will be leading 
+dancers in Irish sets to live music from 5pm to 8pm at Molly Malone's 
+Irish Pub
+([933 Baxter Ave](http://maps.google.com/?q=933+Baxter+Ave,+Louisville,+KY)).
+This is *not* the high kicking, on their toes, Irish *step* dance of 
+Riverdance. *Set* dancing is social dancing, traditional to many parlors 
+and pubs in communities throughout Ireland, done in square formation to 
+jigs, reels and hornpipes. Deborah's been fortunate to learn these 
+dances in Ireland and now leads Irish sets in Louisville. It's easy, 
+requires no prior knowledge, and you don't need to bring a partner. 
+Dancing is interspersed by socializing over food and beverages. Big fun! 
+Live music! All moves taught!
+
+If you can, please RSVP to [Deborah: 502-889-6584](tel:5028896584)
 
 <p style="text-align:center">❧</p>
 
