@@ -36,7 +36,6 @@ Fleur de Lis Fling
 * Sat, Aug 15: [Louisville Country Dancers Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling, 7:30pm, Highlands Community Campus](#contra-saturday) ([FB][Contra Saturday FB], [MU][Contra Saturday MU])
 * Sun, Aug 16: [Irish set dancing, 5pm, Molly Malone's](#irish)
 * Thu, Aug 20: [Hoedown in Germantown with Olive, the Other Reindeer, Peter Rogers calling, 7:30pm, AMVETS Post 9](#hoedown) ([FB][Hoedown FB], [MU][Hoedown MU])
-* Sat, Jul 18: [Summertime Old School Farm Dance with the Ohio River Rounders, Alexander Calls! 7:30pm CDT, Nashville, TN](#nashville) ([FB][Nashville FB])
 * Thu, Oct 1–Sun, Oct 4: [Dare to be Square Tennessee - Nashville Edition](#dtbs-nashville) ([FB][DTBS Nashville FB])
 
 [Cincinnati FB]: https://www.facebook.com/events/738636082929211/
@@ -44,7 +43,6 @@ Fleur de Lis Fling
 [Contra Saturday MU]: http://www.meetup.com/louisvillesquaresandcontras/events/221288530/
 [Hoedown FB]: https://www.facebook.com/events/497403293749923/
 [Hoedown MU]: http://www.meetup.com/louisvillesquaresandcontras/events/223428178/
-[Nashville FB]: https://www.facebook.com/events/392118494312677/
 [DTBS Nashville FB]: https://www.facebook.com/events/1603874016546845/
 
 Old time jam led by Harry Bickel every Thursday evening at [Danny Mac's Pizza][].
@@ -169,24 +167,6 @@ No cover if you're just going to jam, but please enter through Danny Mac's main 
 
 See [the Facebook event][Hoedown FB] or [the Meetup event][Hoedown MU] for more details,
 or if you'd like to volunteer to help set up, work the door, or clean up (and get into the dance for free!)
-
-<p style="text-align:center">❧</p>
-
-<hgroup id="nashville">
-<h3>Saturday, July 18th</h3>
-<h2>Summertime Old School Farm Dance with the Ohio River Rounders, Alex Udis calling</h2>
-<h3>Nashville, TN</h3>
-</hgroup>
-
-Who's ready to dance again?! Come out on the 18th and kick up your heels to some rabble-rousin square dance calls by Alexander Calls! and sweet sweet tunes from our friends Burdock and the Ohio River Rounders.
-
-There will be local Nashville beer on tap, Lil' Choo Choo BBQ food truck servin up eats and a bonfire in the pit. They'll probably rustle up some corn-hole too. The Old School Nashville is plenty air-conditioned y'all, don't fret.
-
-All dances taught, no partner required, live music!
-
-$5-10 sliding scale depending how much love and sweat you'd like to give to the Old School Farm, a non-profit sustainable farm employing adults with intellectual disabilities.
-
-See [the Facebook event][Nashville FB] for more details.
 
 <p style="text-align:center">❧</p>
 
