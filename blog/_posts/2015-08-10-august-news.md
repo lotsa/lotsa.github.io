@@ -27,7 +27,6 @@ fall. Read on for details.
 Here's to three years of hoedowns, and many more years to come. See 
 y'all on the dance floor!
 
-Vernon squares
 DTBS TN
 Nov hoedown
 Fleur de Lis Fling
@@ -36,6 +35,7 @@ Fleur de Lis Fling
 * Sat, Aug 15: [Louisville Country Dancers Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling, 7:30pm, Highlands Community Campus](#contra-saturday) ([FB][Contra Saturday FB], [MU][Contra Saturday MU])
 * Sun, Aug 16: [Irish set dancing, 5pm, Molly Malone's](#irish)
 * Thu, Aug 20: [Hoedown in Germantown with Olive, the Other Reindeer, Peter Rogers calling, 7:30pm, AMVETS Post 9](#hoedown) ([FB][Hoedown FB], [MU][Hoedown MU])
+* Fri, Aug 21: [Third Friday Dance in Vernon with Brad Leftwich and The Hogwire Stringband, 7pm, Vernon, IN](#vernon) ([FB][Vernon FB])
 * Thu, Oct 1–Sun, Oct 4: [Dare to be Square Tennessee - Nashville Edition](#dtbs-nashville) ([FB][DTBS Nashville FB])
 
 [Cincinnati FB]: https://www.facebook.com/events/738636082929211/
@@ -43,6 +43,7 @@ Fleur de Lis Fling
 [Contra Saturday MU]: http://www.meetup.com/louisvillesquaresandcontras/events/221288530/
 [Hoedown FB]: https://www.facebook.com/events/497403293749923/
 [Hoedown MU]: http://www.meetup.com/louisvillesquaresandcontras/events/223428178/
+[Vernon FB]: https://www.facebook.com/events/1677293279170750/
 [DTBS Nashville FB]: https://www.facebook.com/events/1603874016546845/
 
 Old time jam led by Harry Bickel every Thursday evening at [Danny Mac's Pizza][].
@@ -167,6 +168,42 @@ No cover if you're just going to jam, but please enter through Danny Mac's main 
 
 See [the Facebook event][Hoedown FB] or [the Meetup event][Hoedown MU] for more details,
 or if you'd like to volunteer to help set up, work the door, or clean up (and get into the dance for free!)
+
+<p style="text-align:center">❧</p>
+
+<hgroup id="vernon">
+<h3>Friday, August 21st</h3>
+<h2>Third Friday Dance in Vernon with Brad Leftwich and The Hogwire Stringband</h2>
+<h3>Vernon, IN</h3>
+</hgroup>
+
+Join us for another Square Dance in the streets of Vernon! The Dance 
+starts at 7:00 on Brown St. next to the courthouse and is an all ages 
+event.
+
+Free! Free! Free!  
+No experience necessary!  
+We teach you all the dances!  
+
+Tamara Loewenthal calls the moves while Brad Leftwich and the Hogwire 
+Stringband play the tunes!
+
+This will be a very special Third Friday in Vernon! Brad Leftwich and 
+The Hogwire Stringband will be taking a break from their international 
+touring to come down and play some tunes for us in Vernon.
+
+Come on out and let's show them how we dance in Vernon!
+
+The Hogwire Stringband presents an exciting and sophisticated brand of 
+American roots music, blending rich vocal harmonies with superb 
+fiddle-driven melodies backed by a dynamic rhythm section. Brad Leftwich 
+anchors this new band on fiddle and vocals, with long-time musical 
+partner Linda Higginbotham on banjo and banjo uke, Sam Bartlett adding 
+powerful rhythmic support on guitar, banjo, and mandolin, and Abby Ladin 
+completing the sound on stand-up bass and vocals. The band is based in 
+Bloomington, Indiana, deep in the heartland of the U.S.A.
+
+See [the Facebook event][Vernon FB] for more details.
 
 <p style="text-align:center">❧</p>
 
