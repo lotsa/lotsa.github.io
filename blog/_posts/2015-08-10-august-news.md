@@ -74,7 +74,7 @@ Contra dancing with the [Louisville Country Dancers][] every Monday evening at [
 
 <hgroup id="cincinnati">
 <h3>Tuesday, August 11th</h3>
-<h2>[Northside Square Dance][], Peter Rogers calling</h2>
+<h2>Northside Square Dance, Peter Rogers calling</h2>
 <h3>Cincinnati, OH</h3>
 </hgroup>
 
@@ -93,8 +93,8 @@ See [the Facebook event][Cincinnati FB] for more details.
 
 <hgroup id="contra-saturday">
 <h3>Saturday, August 15th</h3>
-<h2>[Louisville Country Dancers][] Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling</h2>
-<h3>[Highlands Community Campus][]</h3>
+<h2>Louisville Country Dancers Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling</h2>
+<h3>Highlands Community Campus</h3>
 </hgroup>
 
 This month, [Louisville Country Dancers][]' third Saturday will be played by the Emily Ann 
@@ -276,8 +276,8 @@ See [the Facebook event][DTBS Nashville FB] for more details.
 
 <hgroup style="text-align:center" id="fdlf">
 <h3>Friday, November 20th–Sunday, November 22nd</h3>
-<h2>[Louisville Country Dancers][]<br />
-[<span style="font-size:141%">Fleur de Lis Fling</span> 2015][FDLF WWW]</h2>
+<h2>Louisville Country Dancers<br />
+<span style="font-size:141%">Fleur de Lis Fling</span> 2015</h2>
 <h3>featuring <span style="font-size:141%">The Stringrays</span><br />
 with <span style="font-size:141%">Will Mentor calling</span><br />
 <span style="font-size:71%">and</span> Turnip the Beet<br />
