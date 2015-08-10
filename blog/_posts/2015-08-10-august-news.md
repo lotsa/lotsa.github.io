@@ -27,7 +27,6 @@ fall. Read on for details.
 Here's to three years of hoedowns, and many more years to come. See 
 y'all on the dance floor!
 
-Aug hoedown
 Vernon squares
 DTBS TN
 Nov hoedown
@@ -36,15 +35,15 @@ Fleur de Lis Fling
 * Tue, Aug 11: [Northside Square Dance, Peter Rogers calling, 8pm, Cincinnati, OH](#cincinnati) ([FB][Cincinnati FB])
 * Sat, Aug 15: [Louisville Country Dancers Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling, 7:30pm, Highlands Community Campus](#contra-saturday) ([FB][Contra Saturday FB], [MU][Contra Saturday MU])
 * Sun, Aug 16: [Irish set dancing, 5pm, Molly Malone's](#irish)
-* Thu, Jul 16: **[3 Year Anniversary of the Hoedown in Germantown featuring the Ohio River Rounders, T-Claw Calling, 7:30pm, AMVETS Post 9](#hoedown)** ([FB][Hoedown FB], [MU][Hoedown MU])
+* Thu, Aug 20: [Hoedown in Germantown with Olive, the Other Reindeer, Peter Rogers calling, 7:30pm, AMVETS Post 9](#hoedown) ([FB][Hoedown FB], [MU][Hoedown MU])
 * Sat, Jul 18: [Summertime Old School Farm Dance with the Ohio River Rounders, Alexander Calls! 7:30pm CDT, Nashville, TN](#nashville) ([FB][Nashville FB])
 * Thu, Oct 1–Sun, Oct 4: [Dare to be Square Tennessee - Nashville Edition](#dtbs-nashville) ([FB][DTBS Nashville FB])
 
 [Cincinnati FB]: https://www.facebook.com/events/738636082929211/
 [Contra Saturday FB]: https://www.facebook.com/events/1615130942080686/
 [Contra Saturday MU]: http://www.meetup.com/louisvillesquaresandcontras/events/221288530/
-[Hoedown FB]: https://www.facebook.com/events/876628295746537/
-[Hoedown MU]: http://www.meetup.com/louisvillesquaresandcontras/events/223428141/
+[Hoedown FB]: https://www.facebook.com/events/497403293749923/
+[Hoedown MU]: http://www.meetup.com/louisvillesquaresandcontras/events/223428178/
 [Nashville FB]: https://www.facebook.com/events/392118494312677/
 [DTBS Nashville FB]: https://www.facebook.com/events/1603874016546845/
 
@@ -125,19 +124,15 @@ If you can, please RSVP to [Deborah: 502-889-6584](tel:5028896584)
 <p style="text-align:center">❧</p>
 
 <hgroup style="text-align:center" id="hoedown">
-<h3>Thursday, July 16th</h3>
-<h2>Three Year Anniversary <span style="font-size:71%">of the</span><br />
+<h3>Thursday, August 20th</h3>
+<h2>Third Thursday<br />
 <span style="font-size:141%">Hoedown in Germantown</span></h2>
-<h3>featuring <span style="font-size:141%">the Ohio River Rounders</span><br />
-with <span style="font-size:141%">T-Claw Calling</span></h3>
+<h3>featuring <span style="font-size:141%">Olive, the Other Reindeer</span><br />
+with <span style="font-size:141%">Peter Rogers calling</span></h3>
 </hgroup>
 
-Louisville Old Time Squares Association presents
-the three year anniversary of our old-time square dance social!
-
-Bring your dancing shoes and your fire extinguishers, because we will be setting this dance floor on fire! 
-
-There will be a special, all invited, Birthday Cake Walk.
+Louisville Old Time Squares Association presents our old-time square 
+dance social!
 
 Doors open at 7pm with jamming in the bar  
 Beginners dance workshop around 7:30pm  
@@ -151,14 +146,14 @@ $5 at the door (veterans, youth, & volunteers free)
 [1567 S Shelby St][AMVETS map]  
 [Louisville, KY 40217][AMVETS map]  
 
-The Ohio River Rounders will be:  
-Burdock on fiddle  
-Sean Johnson on banjo  
-Brad Baute on guitar
+Olive, the Other Reindeer is:  
+Tom Cunningham on fiddle  
+Ben Andrews on guitar  
+David Brooks on banjo  
+Chet Gray on bass
 
-We've got [T-Claw Calling](http://www.tclawcalling.com/) for us again and we couldn't be happier!
-This guy brought square dancing to Louisville, and we need to all welcome him back with open arms,
-weaving a basket, spinning 'round and 'round.
+Peter Rogers does NOT disappoint when it comes to calling square dances! 
+He does things the old-time, just right kinda way!
 
 All dances TAUGHT.
 No experience necessary.
