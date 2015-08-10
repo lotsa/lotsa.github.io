@@ -22,12 +22,19 @@ and Jane Mattingly for helping us with that awesome birthday cake, and
 to T-Claw for not only calling but also baking the squared pie.
 
 Plenty of dancing this month, and some exciting announcements for the 
-fall. Read on for details.
+fall.
+
+In October, [Dare to be Square](#dtbs-nashville), a weekend of square 
+dance and music, will be coming to Nashville. They've been held all 
+around the country, but this is the closest we've had one to Louisville. 
+This is not something to miss, folks. Caller, dancer, musician workshops 
+during the day, hot dancing to hot tunes at night. Volunteer and 
+sponsorships are being sought; see [the details below](#dtbs-nashville) 
+to get in touch.
 
 Here's to three years of hoedowns, and many more years to come. See 
 y'all on the dance floor!
 
-DTBS TN
 Nov hoedown
 Fleur de Lis Fling
 
