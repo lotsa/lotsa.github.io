@@ -32,11 +32,18 @@ during the day, hot dancing to hot tunes at night. Volunteer and
 sponsorships are being sought; see [the details below](#dtbs-nashville) 
 to get in touch.
 
+In [November, our regular 
+Hoedown](http://www.meetup.com/louisvillesquaresandcontras/events/223428305/) 
+falls adjacent to [Louisville Country Dancers][]' annual [Fleur de Lis 
+Fling contra dance weekend](#fdlf), and we are fortunate enough to share 
+some amazing talent with them: band Turnip the Beet and caller Will 
+Mentor. If you'd like to get in more dancing to them, [register for 
+Fleur de Lis Fling][FDLF WWW], and **register soon**. Registration has 
+been open only one week, and it is already more than 25% sold out. [More 
+information can be found below](#fdlf).
+
 Here's to three years of hoedowns, and many more years to come. See 
 y'all on the dance floor!
-
-Nov hoedown
-Fleur de Lis Fling
 
 * Tue, Aug 11: [Northside Square Dance, Peter Rogers calling, 8pm, Cincinnati, OH](#cincinnati) ([FB][Cincinnati FB])
 * Sat, Aug 15: [Louisville Country Dancers Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling, 7:30pm, Highlands Community Campus](#contra-saturday) ([FB][Contra Saturday FB], [MU][Contra Saturday MU])
@@ -44,6 +51,7 @@ Fleur de Lis Fling
 * Thu, Aug 20: [Hoedown in Germantown with Olive, the Other Reindeer, Peter Rogers calling, 7:30pm, AMVETS Post 9](#hoedown) ([FB][Hoedown FB], [MU][Hoedown MU])
 * Fri, Aug 21: [Third Friday Dance in Vernon with Brad Leftwich and The Hogwire Stringband, 7pm, Vernon, IN](#vernon) ([FB][Vernon FB])
 * Thu, Oct 1–Sun, Oct 4: [Dare to be Square Tennessee - Nashville Edition](#dtbs-nashville) ([FB][DTBS Nashville FB])
+* Fri, Nov 20–Sun, Nov 22: [Louisville Country Dancers Fleur de Lis Fling with the Stringrays, Turnip the Beet, Will Mentor and Michael Hamilton calling](#fdlf) ([WWW][FDLF WWW], [FB][FDLF FB], [MU][FDLF MU])
 
 [Cincinnati FB]: https://www.facebook.com/events/738636082929211/
 [Contra Saturday FB]: https://www.facebook.com/events/1615130942080686/
@@ -52,6 +60,9 @@ Fleur de Lis Fling
 [Hoedown MU]: http://www.meetup.com/louisvillesquaresandcontras/events/223428178/
 [Vernon FB]: https://www.facebook.com/events/1677293279170750/
 [DTBS Nashville FB]: https://www.facebook.com/events/1603874016546845/
+[FDLF WWW]: http://www.loukyfleurfling.org/
+[FDLF FB]: https://www.facebook.com/events/811922668875762/
+[FDLF MU]: http://www.meetup.com/louisvillesquaresandcontras/events/221289515/
 
 Old time jam led by Harry Bickel every Thursday evening at [Danny Mac's Pizza][].
 
@@ -260,6 +271,54 @@ Scholarship and work-trade applications will be available soon.
 SEEKING SPONSORS
 
 See [the Facebook event][DTBS Nashville FB] for more details.
+
+<p style="text-align:center">❧</p>
+
+<hgroup style="text-align:center" id="fdlf">
+<h3>Friday, November 20th–Sunday, November 22nd</h3>
+<h2>[Louisville Country Dancers][]<br />
+[<span style="font-size:141%">Fleur de Lis Fling</span> 2015][FDLF WWW]</h2>
+<h3>featuring <span style="font-size:141%">The Stringrays</span><br />
+with <span style="font-size:141%">Will Mentor calling</span><br />
+<span style="font-size:71%">and</span> Turnip the Beet<br />
+<span style="font-size:71%">with</span> Michael Hamilton calling</h3>
+</hgroup>
+
+**Registration opened August 1st.** After one week, Fleur de Lis Fling 
+is more than **25% sold out** of the new larger hall! Dancers registered 
+from 14 states so far from NM to NY and MN to NC.
+
+LCD has moved to a new, larger hall and will be able to accommodate 40 
+more dancers for the weekend. **Get your registration in early as it 
+have SOLD OUT four years in a row.**
+
+Registration forms are available on the [Fleur de Lis Fling 
+website][FDLF WWW].
+
+Fleur de Lis Fling is a weekend of contra (and square) dancing sponsored 
+by the [Louisville Country Dancers][] each November. There will be 
+workshops throughout the day on Saturday and one led by Will Mentor on 
+Sunday for callers.
+
+The Louisville Country Dancers are pleased to welcome [The 
+Stringrays](http://stringraysmusic.com/) to Fleur de Lis Fling 2015! 
+Dancers should prepare to be drawn into a whirlwind of dance music that 
+will lift their feet and hearts while shaking their hips and elbows. 
+Stringrays' music encapsulates both the improvisational and traditional 
+sides of New England fiddle music. Hot licks are traded back and forth, 
+followed by uplifting tunes played with such freshness that one wouldn't 
+know they are 100 years old.
+
+Coming to Louisville straight from Nashville, TN, the down-home duo of 
+[Turnip the Beet](http://turnipthebeetmusic.com/) combines both European 
+and American folk influences to produce an organic, musical harvest of 
+toe-tapping tunes. They are no stranger to the contra community, as the 
+band has provided the soundtrack to dozens of contra and square dances 
+in Alabama, Illinois, Indiana, Kentucky, Maine, Missouri, and Tennessee 
+since 2013.
+
+See [the Fleur de Lis Fling website][FDLF WWW], [the Facebook 
+event][FDLF FB], or [the Meetup event][FDLF MU] for more details.
 
 <p style="text-align:center">❧</p>
 
