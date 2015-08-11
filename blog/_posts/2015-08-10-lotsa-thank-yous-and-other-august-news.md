@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "August News"
+title: "LOTSA THANK YOUS and Other August News"
 categories: [blog]
 excerpt: "Olive the Other Reindeer, Peter Rogers, Dare to be Square, Fleur de Lis Fling"
 tags: [news]
