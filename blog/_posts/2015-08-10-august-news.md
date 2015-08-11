@@ -136,7 +136,7 @@ requires no prior knowledge, and you don't need to bring a partner.
 Dancing is interspersed by socializing over food and beverages. Big fun! 
 Live music! All moves taught!
 
-If you can, please RSVP to [Deborah: 502-889-6584](tel:5028896584)
+If you can, please RSVP to [Deborah: 502-889-6584](tel:502-889-6584)
 
 <p style="text-align:center">❧</p>
 
@@ -264,7 +264,7 @@ Evening Dances open to the PUBLIC: $5-$10 at the door
 A description of what to expect:
 All dances will be TAUGHT all weekend. No experience is necessary. No one is required to dance, call, or play. It is a SOCIAL event. The focus will be on simple and traditional southern Appalachian figures, partner dancing, and old music. No dress code or partner is needed needed. Anyone can dance with ANYONE regardless of gender.
 
-Questions: [dtbstn@gmail.com](mailto:dtbstn@gmail.com) or [(615) 430-8230](tel:6154308230)
+Questions: [dtbstn@gmail.com](mailto:dtbstn@gmail.com) or [615-430-8230](tel:615-430-8230)
 
 Scholarship and work-trade applications will be available soon.
 
