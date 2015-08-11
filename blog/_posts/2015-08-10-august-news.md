@@ -50,6 +50,7 @@ y'all on the dance floor!
 * Sun, Aug 16: [Irish set dancing, 5pm, Molly Malone's](#irish)
 * Thu, Aug 20: [Hoedown in Germantown with Olive, the Other Reindeer, Peter Rogers calling, 7:30pm, AMVETS Post 9](#hoedown) ([FB][Hoedown FB], [MU][Hoedown MU])
 * Fri, Aug 21: [Third Friday Dance in Vernon with Brad Leftwich and The Hogwire Stringband, 7pm, Vernon, IN](#vernon) ([FB][Vernon FB])
+* Sat, Sep 5: [Dance for the Trees benefit potluck and square dance, 6pm, Paoli, IN](#trees) ([WWW][Trees FB], [FB][Trees FB])
 * Thu, Oct 1–Sun, Oct 4: [Dare to be Square Tennessee - Nashville Edition](#dtbs-nashville) ([FB][DTBS Nashville FB])
 * Fri, Nov 20–Sun, Nov 22: [Louisville Country Dancers Fleur de Lis Fling with the Stringrays, Turnip the Beet, Will Mentor and Michael Hamilton calling](#fdlf) ([WWW][FDLF WWW], [FB][FDLF FB], [MU][FDLF MU])
 
@@ -59,6 +60,8 @@ y'all on the dance floor!
 [Hoedown FB]: https://www.facebook.com/events/497403293749923/
 [Hoedown MU]: http://www.meetup.com/louisvillesquaresandcontras/events/223428178/
 [Vernon FB]: https://www.facebook.com/events/1677293279170750/
+[Trees WWW]: http://indianaforestalliance.org/event/dance-for-the-trees-squaredance/
+[Trees FB]: https://www.facebook.com/events/1453357634991222/
 [DTBS Nashville FB]: https://www.facebook.com/events/1603874016546845/
 [FDLF WWW]: http://www.loukyfleurfling.org/
 [FDLF FB]: https://www.facebook.com/events/811922668875762/
@@ -222,6 +225,36 @@ completing the sound on stand-up bass and vocals. The band is based in
 Bloomington, Indiana, deep in the heartland of the U.S.A.
 
 See [the Facebook event][Vernon FB] for more details.
+
+<p style="text-align:center">❧</p>
+
+<hgroup id="trees">
+<h3>Saturday, September 5th</h3>
+<h2>Dance for the Trees benefit potluck and square dance</h2>
+<h3>Lazy Black Bear, Paoli, IN</h3>
+</hgroup>
+
+The [Indiana Forest Alliance](http://indianaforestalliance.org/) invites 
+you to Dance for the Trees at the Lazy Black Bear, a beautiful retreat 
+tucked away in the Hoosier National Forest, near Paoli, Indiana. Join us 
+on Saturday, September 5th for a potluck and square dance to benefit the 
+IFA. Bring a dish to share for the potluck at 6:30 pm, and your dancing 
+shoes for the square dance from 8:00 to 10:00 pm. All levels of 
+experience are welcome!
+
+Music will be provided by the New Hoosier Broadcasters, with Tamara 
+Loewenthal and Alexander Udis calling.
+
+The IFA is asking for a $10 suggested donation. All door proceeds go 
+towards the Indiana Forest Alliance and their fight to protect Indiana's 
+public forests. While you are there, you can also join IFA or renew your 
+membership for $25, and get in the door for free! Your contribution will 
+be MATCHED by the McKinney Family Foundation!
+
+The Lazy Black Bear is located at [3875 S Co Rd 50 W, Paoli, 
+IN](http://maps.google.com/?q=3875+S+Co+Rd+50+W, Paoli, IN). For more 
+information, contact the Indiana Forest Alliance at 
+audrey@indianaforestalliance.org or [812-269-6404](tel:812-269-6404).
 
 <p style="text-align:center">❧</p>
 
