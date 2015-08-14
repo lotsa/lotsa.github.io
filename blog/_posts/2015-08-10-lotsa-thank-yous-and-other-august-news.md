@@ -5,7 +5,7 @@ categories: [blog]
 excerpt: "Olive the Other Reindeer, Peter Rogers, Dare to be Square, Fleur de Lis Fling"
 tags: [news]
 date: 2015-08-10T13:00:00-04:00
-modified: 
+modified: 2015-08-14T14:43:00-04:00
 share: true
 ---
 
@@ -47,7 +47,7 @@ y'all on the dance floor!
 
 * Tue, Aug 11: [Northside Square Dance, Peter Rogers calling, 8pm, Cincinnati, OH](#cincinnati) ([FB][Cincinnati FB])
 * Sat, Aug 15: [Louisville Country Dancers Third Saturday contra dance with Emily Ann Thompson Band, Barbara Ramlow calling, 7:30pm, Highlands Community Campus](#contra-saturday) ([FB][Contra Saturday FB], [MU][Contra Saturday MU])
-* Sun, Aug 16: [Irish set dancing, 5pm, Molly Malone's](#irish)
+* Sun, Aug 16: [Irish set dancing, 5pm, Molly Malone's](#irish) ([FB][Irish FB])
 * Thu, Aug 20: [Hoedown in Germantown with Olive, the Other Reindeer, Peter Rogers calling, 7:30pm, AMVETS Post 9](#hoedown) ([FB][Hoedown FB], [MU][Hoedown MU])
 * Fri, Aug 21: [Third Friday Dance in Vernon with Brad Leftwich and The Hogwire Stringband, 7pm, Vernon, IN](#vernon) ([FB][Vernon FB])
 * Sat, Sep 5: [Dance for the Trees benefit potluck and square dance, 6pm, Paoli, IN](#trees) ([WWW][Trees FB], [FB][Trees FB])
@@ -57,6 +57,7 @@ y'all on the dance floor!
 [Cincinnati FB]: https://www.facebook.com/events/738636082929211/
 [Contra Saturday FB]: https://www.facebook.com/events/1615130942080686/
 [Contra Saturday MU]: http://www.meetup.com/louisvillesquaresandcontras/events/221288530/
+[Irish FB]: https://www.facebook.com/events/904528089633663/
 [Hoedown FB]: https://www.facebook.com/events/497403293749923/
 [Hoedown MU]: http://www.meetup.com/louisvillesquaresandcontras/events/223428178/
 [Vernon FB]: https://www.facebook.com/events/1677293279170750/
@@ -140,6 +141,8 @@ Dancing is interspersed by socializing over food and beverages. Big fun!
 Live music! All moves taught!
 
 If you can, please RSVP to [Deborah: 502-889-6584](tel:502-889-6584)
+
+See [the Facebook event][Irish FB] for more details.
 
 <p style="text-align:center">❧</p>
 
