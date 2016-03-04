@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/lotsa/lotsa.github.io.png?label=ready&title=Ready)](https://waffle.io/lotsa/lotsa.github.io)
 # Louisville Old Time Squares Association
 
 We have here the source for [LOTSA][]'s [Jekyll][]- and [GitHub 
